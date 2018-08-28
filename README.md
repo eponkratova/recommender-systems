@@ -6,5 +6,5 @@ The first assignment to the course 'Introduction to Recommender Systems' introdu
 
 During the second assignment to the course 'Introduction to Recommeder Systems', content-based profiles are created (see the file 2nd assignment). The dataset contains a table of content attributes for 20 documents across 10 attributes. It also lists two users’ evaluations of five documents each. For purposes of this assignment, content attributes are treated as boolean (either an article is about a topic or it isn’t) and evaluations as positive (liked it), negative (disliked it), or unknown (never saw it).
 
-## Nearest Neighbor Collaborative Filterin
+## Nearest Neighbor Collaborative Filtering
 The first assignment to the course 'Nearest Neighbor Collaborative Filtering' requires to implement user-user collaborative filtering (see the file 1st_assignment_collab). The dataset is a 25 user x 100 movie matrix of ratings selected from the class data set. 
