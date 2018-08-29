@@ -8,3 +8,5 @@ During the second assignment to the course 'Introduction to Recommeder Systems',
 
 ## Nearest Neighbor Collaborative Filtering
 The first assignment to the course 'Nearest Neighbor Collaborative Filtering' requires to implement user-user collaborative filtering (see the file 1st_assignment_collab). The dataset is a 25 user x 100 movie matrix of ratings selected from the class data set. 
+
+The second assignment will explore item-based collaborative filtering. The dataset is a 20x20 matrix where columns represent movies, rows represent users, and each cell represents a user-movie rating (see the file 2nd_assignment_collab).
